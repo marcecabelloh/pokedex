@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: whitesmoke;
+}
+
+h3{
+	color: red;
+}
+
+nav{
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.material-icons{
+	color: black;
+}
+
+.caja-verde{
+	background-color: green;
+	width: 5%
+}
+
+nav .input-field label i {
+	color: black;
+}
+
+img{
+	background-color: #dbdbdb;
+	width: 150px;
+	height: 150px;
+	margin-left: -39px;
+	background-color: #dbdbdb;
+   
+}
+
+
+.btn{
+	height: 150px;
+	width: 150px;
+	margin: 5px;
+	box-shadow: none;
+}
+
