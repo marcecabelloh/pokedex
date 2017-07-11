@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     $.ajax({
-        url:'http://pokeapi.co/api/v2/pokemon/',
+        url:'https://pokeapi.co/api/v2/pokemon/',
         type:'GET',
         dataType:'JSON',
         data:{"limit":'719'},
